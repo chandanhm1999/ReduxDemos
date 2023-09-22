@@ -10,6 +10,10 @@ For more demos its in deiffernet branches!
 ## Action
 ![actions](https://github.com/chandanhm1999/Redux_Demos-/assets/109410990/106aadf2-4c73-4ddb-a686-79b220592a71)
 
+* ActionCreator
+  ![actioncreator](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/0bd762ce-423d-4a7e-a6bb-e79fe0a3fd15)
+
+
 ## Reducers
 ![reducers](https://github.com/chandanhm1999/Redux_Demos-/assets/109410990/24642195-a43a-4a4e-97e0-7b7781b9f7af)
 
