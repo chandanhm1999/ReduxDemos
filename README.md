@@ -17,3 +17,5 @@ For more demos its in deiffernet branches!
 ## Reducers
 ![reducers](https://github.com/chandanhm1999/Redux_Demos-/assets/109410990/24642195-a43a-4a4e-97e0-7b7781b9f7af)
 
+### last
+![reduceraction](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/e42bfba7-9c6a-4587-828b-b6a0808c898a)
