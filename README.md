@@ -21,6 +21,8 @@ For more demos its in deiffernet branches!
 ![reduceraction](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/e42bfba7-9c6a-4587-828b-b6a0808c898a)
 
 # Base Setup of Redux
+
+```
 const redux = require('redux')
 const createStore = redux.createStore
 
@@ -84,3 +86,4 @@ const reducer = (state = initialState, action) => {
 }
 
 const store = createStore(reducer)
+```
