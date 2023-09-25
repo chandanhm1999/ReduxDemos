@@ -6,6 +6,10 @@ simple store process!!
 - one_Type.js     : We need to export this type to the action so called type!
 * one_reducer.js  : Reducer is a function that accepts the state & action as parameter & returns a new state!
 
+  #### Note:
+  First we have defined our action an object & we have defined our "action creator" that can returns an object!
+  
+
 For more demos its in deiffernet branches!
 * demo1
 * demo2
