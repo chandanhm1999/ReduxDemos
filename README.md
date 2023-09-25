@@ -2,9 +2,9 @@
 Redux scratch to hero code in this file for react store process!!
 simple store process!!
 
-one_Type.js     :
-one_actioion.js :
-one_reducer.js  : Reducer is a function that accepts the state & action as parameter & returns a new state!
+* one_Type.js     :
+* one_action.js   : An action is obeject with a type property!
+* one_reducer.js  : Reducer is a function that accepts the state & action as parameter & returns a new state!
 
 For more demos its in deiffernet branches!
 * demo1
