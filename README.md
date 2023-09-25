@@ -7,7 +7,8 @@ For more demos its in deiffernet branches!
 * demo2
 * demo3
 
-## Work Flow
+### Work Flow
+![flow](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/355973e7-553a-40c2-ae51-991d07176aa4)
 
 ## State
 ![state](https://github.com/chandanhm1999/Redux_Demos-/assets/109410990/fd121980-7124-4857-8348-455c3b04e1ce)
