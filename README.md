@@ -8,6 +8,7 @@ simple store process!!
 
   #### Note:
   First we have defined our action an object & we have defined our "action creator" that can returns an object!
+  then we are implementing the reducer "Reducer is a function that accepts the state & action as parameter & returns a new state"
   
 
 For more demos its in deiffernet branches!
