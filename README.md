@@ -3,6 +3,11 @@ Redux scratch to hero code in this file for react store process!!
 simple store process!!
 
 For more demos its in deiffernet branches!
+* demo1
+* demo2
+* demo3
+
+## Work Flow
 
 ## State
 ![state](https://github.com/chandanhm1999/Redux_Demos-/assets/109410990/fd121980-7124-4857-8348-455c3b04e1ce)
