@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+#### UI for reference!
+![ui](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/56054251-8d55-4441-90ad-d2c876e10c63)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
