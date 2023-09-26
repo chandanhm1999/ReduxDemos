@@ -16,6 +16,8 @@ For more demos its in deiffernet branches!
 * demo1
 * demo2
 * demo3
+* demo4
+* demoui5 for UI redux
 
 ### Work Flow
 ![flow](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/355973e7-553a-40c2-ae51-991d07176aa4)
