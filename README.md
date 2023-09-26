@@ -2,6 +2,8 @@
 
 
 #### UI for reference!
+![redux folder stu](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/ee454e0c-3128-401b-85f8-956833526a05)
+
 ![ui](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/56054251-8d55-4441-90ad-d2c876e10c63)
 
 
