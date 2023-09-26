@@ -15,8 +15,8 @@ simple store process!!
 For more demos its in deiffernet branches!
 * demo1
 * demo2
-* demo3
-* demo4
+* demo3middleware
+* demo4thunkmiddleware
 * demoui5 for UI redux
 
 ### Work Flow
