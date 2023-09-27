@@ -13,7 +13,7 @@ simple store process!!
 
 ## Hook
 * useSelector:  useSelector is hook the react-redux library provides which acts as close equivilent to map state to props function we have already seen!
-  // to get hold of any state that is maintained in redux store we use the useSelector hook!
+- // to get hold of any state that is maintained in redux store we use the useSelector hook!
 
 For more demos its in deiffernet branches!
 * demo1
