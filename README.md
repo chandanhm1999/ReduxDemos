@@ -1,5 +1,5 @@
 # Redux_Demos-
-#### Redux scratch to hero code in this file for react store process!!!
+#### Redux scratch to hero code in this file for react store process!!
 simple store process!!
 
 * one_action.js   : An action is object with a type property! - 1st we have create this
