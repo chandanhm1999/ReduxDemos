@@ -22,6 +22,7 @@ For more demos its in deiffernet branches!
 * demo3middleware
 * demo4thunkmiddleware
 * demoui5 for UI redux
+* demoui6banking           : created banking website demo redux
 
 ### Work Flow
 ![flow](https://github.com/chandanhm1999/ReduxDemos/assets/109410990/355973e7-553a-40c2-ae51-991d07176aa4)
