@@ -6,7 +6,7 @@ simple store process!!
 - one_Type.js     : We need to export this type to the action so called type!
 - one_reducer.js  : Reducer is a function that accepts the state & action as parameter & returns a new state!
 * store.js        : Create Store method accepts a reducer fuuncton as its parameter!
-* 
+
 
   #### Note:
   First we have defined our action an object & we have defined our "action creator" that can returns an object!
