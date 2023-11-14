@@ -1,5 +1,5 @@
 `hhii`
-# Redux_Demos
+# Redux_Demoss
 #### Redux scratch to hero code in this file for react store process!!
 simple store process!!
 
